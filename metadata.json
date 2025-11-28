@@ -1,0 +1,5 @@
+{
+  "name": "ScrollDiet",
+  "description": "A mindful scrolling application that limits your daily consumption of short-form content. Set a daily scroll limit, track your usage in real-time, and receive awareness notifications as you approach your limit.",
+  "requestFramePermissions": []
+}
